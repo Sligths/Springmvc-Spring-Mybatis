@@ -1,0 +1,669 @@
+[INFO] [2017-01-17 11:14:15][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-17 11:14:15][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:14:15][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-17 11:15:39][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-17 11:15:39][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:15:39][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:20:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:20:38][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:20:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:20:38][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-17 11:21:16][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:21:20][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:21:23][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:21:24][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:22:54][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:23:44][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-17 11:24:46][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:25:28][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:25:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:25:54][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-17 11:26:17][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-17 11:26:50][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:56][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:57][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:26:57][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:27:30][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 11:27:31][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-17 16:44:46][com.tiobe.redis.RedisUtilTest] 1-10 random num is :5
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-17 16:44:47][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 10:24:12][com.tiobe.redis.RedisUtilTest]this is the random num : 3
+ [INFO] [2017-01-18 10:24:12][com.tiobe.redis.RedisUtilTest] 1-10 random num is :7
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 10:24:13][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest] 1-10 random num is :5
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:01:38][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest] 1-10 random num is :3
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:02:47][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest] 1-10 random num is :6
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-18 11:04:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:11][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:11][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:11][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:04:41][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 11:04:41][com.tiobe.redis.RedisUtilTest] 1-10 random num is :4
+ [INFO] [2017-01-18 11:04:41][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:04:41][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:04:42][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:05:23][com.tiobe.redis.RedisUtilTest]this is the random num : 2
+ [INFO] [2017-01-18 11:05:23][com.tiobe.redis.RedisUtilTest] 1-10 random num is :5
+ [INFO] [2017-01-18 11:05:23][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:05:23][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:05:24][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]this is the random num : 3
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest] 1-10 random num is :2
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:06:48][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:06:49][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:06:49][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 11:08:54][com.tiobe.redis.RedisUtilTest]this is the random num : 4
+ [INFO] [2017-01-18 11:08:54][com.tiobe.redis.RedisUtilTest] 1-10 random num is :3
+ [INFO] [2017-01-18 11:08:54][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 11:08:54][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 11:08:55][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]this is the random num : 3
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest] 1-10 random num is :6
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:16:10][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest] 1-10 random num is :3
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:33:53][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest] 1-10 random num is :8
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]88888
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:34:51][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 14:35:43][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 14:35:43][com.tiobe.redis.RedisUtilTest] 1-10 random num is :9
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]77777
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:35:44][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]this is the random num : 4
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest] 1-10 random num is :5
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]my turn is coming 
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest][66666, 77777, 88888]
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]66666
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]----------------------
+ [INFO] [2017-01-18 14:39:26][com.tiobe.redis.RedisUtilTest]
+ [INFO] [2017-01-18 15:07:14][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 15:07:14][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:07:14][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0]
+ [INFO] [2017-01-18 15:07:45][com.tiobe.redis.RedisUtilTest]this is the random num : 7
+ [INFO] [2017-01-18 15:07:45][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:07:45][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7]
+ [INFO] [2017-01-18 15:07:53][com.tiobe.redis.RedisUtilTest]this is the random num : 8
+ [INFO] [2017-01-18 15:07:53][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:07:53][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8]
+ [INFO] [2017-01-18 15:08:06][com.tiobe.redis.RedisUtilTest]this is the random num : 3
+ [INFO] [2017-01-18 15:08:06][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:08:06][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3]
+ [INFO] [2017-01-18 15:08:11][com.tiobe.redis.RedisUtilTest]this is the random num : 6
+ [INFO] [2017-01-18 15:08:11][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:08:11][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6]
+ [INFO] [2017-01-18 15:08:17][com.tiobe.redis.RedisUtilTest]this is the random num : 2
+ [INFO] [2017-01-18 15:08:17][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:08:17][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2]
+ [INFO] [2017-01-18 15:08:22][com.tiobe.redis.RedisUtilTest]this is the random num : 7
+ [INFO] [2017-01-18 15:08:22][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:08:22][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7]
+ [INFO] [2017-01-18 15:11:00][com.tiobe.redis.RedisUtilTest]this is the random num : 5
+ [INFO] [2017-01-18 15:11:00][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:11:00][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5]
+ [INFO] [2017-01-18 15:11:11][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 15:11:11][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:11:11][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5, 1]
+ [INFO] [2017-01-18 15:11:15][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:11:15][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:11:15][com.tiobe.redis.RedisUtilTest]this is the random num : 5
+ [INFO] [2017-01-18 15:11:15][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:11:15][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5, 1, 5]
+ [INFO] [2017-01-18 15:13:31][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:31][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:32][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:33][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:34][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:35][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:36][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:37][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:38][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:39][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:40][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:41][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:41][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:42][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:43][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:44][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:45][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:46][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:46][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:46][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:46][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:47][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:47][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:48][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:48][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:48][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:48][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:48][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:49][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:50][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:51][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:52][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:53][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:54][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:55][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:56][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:57][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:58][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:13:59][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:00][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:01][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:03][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:04][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:05][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:06][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:07][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:08][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 15:14:09][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:14:09][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5, 1, 5, 8, 3, 5, 0, 6, 3, 6, 0, 8, 2, 6, 6, 4, 1, 8, 8, 8, 3, 2, 4, 0, 7, 0, 4, 6, 1, 7, 4, 0, 5, 0, 7, 4, 1, 4, 1, 1, 6, 1, 6, 2, 6, 7, 0, 1, 4, 5, 4, 3, 6, 5, 6, 7, 8, 5, 5, 8, 8, 6, 8, 4, 2, 5, 4, 5, 1, 0, 0, 0, 0, 7, 1, 4, 7, 3, 4, 0, 7, 2, 6, 8, 7, 7, 4, 7, 0, 7, 5, 2, 0, 2, 2, 4, 6, 6, 8, 1, 0, 2, 0, 4, 4, 1, 7, 7, 4, 4, 2, 8, 8, 0, 2, 6, 0, 1, 6, 4, 4, 6, 6, 3, 0, 6, 4, 0, 5, 1, 4, 6, 5, 0, 0, 7, 3, 2, 7, 5, 6, 5, 7, 6, 4, 2, 1, 7, 6, 7, 4, 8, 7, 5, 2, 2, 1, 2, 0, 5, 0, 1, 4, 0, 7, 4, 5, 2, 3, 2, 2, 2, 4, 3, 3, 4, 7, 7, 2, 3, 2, 2, 4, 2, 7, 1, 1, 6, 6, 5, 7, 5, 1, 5, 6, 2, 5, 3, 5, 2, 0, 4, 8, 5, 4, 3, 0, 6, 3, 8, 1, 6, 3, 6, 1, 4, 8, 7, 5, 8, 0, 5, 5, 5, 7, 2, 6, 6, 2, 2, 2, 2, 6, 2, 8, 5, 7, 8, 0, 1, 8, 0, 5, 7, 7, 3, 5, 2, 0, 8, 0, 2, 2, 0, 7, 0, 8, 4, 0, 6, 7, 0, 4, 3, 4, 2, 3, 8, 7, 3, 5, 3, 1, 8, 3, 4, 7, 3, 4, 6, 4, 6, 5, 3, 0, 3, 0, 0, 1, 6, 0, 5, 2, 1, 0, 6, 8, 5, 3, 0, 0, 7, 3, 2, 1, 0, 0, 0, 5, 3, 8, 3, 8, 6, 5, 4, 0]
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:09][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:10][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:16][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:14:16][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 15:14:16][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:14:16][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5, 1, 5, 8, 3, 5, 0, 6, 3, 6, 0, 8, 2, 6, 6, 4, 1, 8, 8, 8, 3, 2, 4, 0, 7, 0, 4, 6, 1, 7, 4, 0, 5, 0, 7, 4, 1, 4, 1, 1, 6, 1, 6, 2, 6, 7, 0, 1, 4, 5, 4, 3, 6, 5, 6, 7, 8, 5, 5, 8, 8, 6, 8, 4, 2, 5, 4, 5, 1, 0, 0, 0, 0, 7, 1, 4, 7, 3, 4, 0, 7, 2, 6, 8, 7, 7, 4, 7, 0, 7, 5, 2, 0, 2, 2, 4, 6, 6, 8, 1, 0, 2, 0, 4, 4, 1, 7, 7, 4, 4, 2, 8, 8, 0, 2, 6, 0, 1, 6, 4, 4, 6, 6, 3, 0, 6, 4, 0, 5, 1, 4, 6, 5, 0, 0, 7, 3, 2, 7, 5, 6, 5, 7, 6, 4, 2, 1, 7, 6, 7, 4, 8, 7, 5, 2, 2, 1, 2, 0, 5, 0, 1, 4, 0, 7, 4, 5, 2, 3, 2, 2, 2, 4, 3, 3, 4, 7, 7, 2, 3, 2, 2, 4, 2, 7, 1, 1, 6, 6, 5, 7, 5, 1, 5, 6, 2, 5, 3, 5, 2, 0, 4, 8, 5, 4, 3, 0, 6, 3, 8, 1, 6, 3, 6, 1, 4, 8, 7, 5, 8, 0, 5, 5, 5, 7, 2, 6, 6, 2, 2, 2, 2, 6, 2, 8, 5, 7, 8, 0, 1, 8, 0, 5, 7, 7, 3, 5, 2, 0, 8, 0, 2, 2, 0, 7, 0, 8, 4, 0, 6, 7, 0, 4, 3, 4, 2, 3, 8, 7, 3, 5, 3, 1, 8, 3, 4, 7, 3, 4, 6, 4, 6, 5, 3, 0, 3, 0, 0, 1, 6, 0, 5, 2, 1, 0, 6, 8, 5, 3, 0, 0, 7, 3, 2, 1, 0, 0, 0, 5, 3, 8, 3, 8, 6, 5, 4, 0, 3, 6, 8, 5, 2, 1, 1, 4, 2, 2, 4, 0, 1]
+ [INFO] [2017-01-18 15:15:02][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:15:02][com.tiobe.redis.RedisUtilTest]this is the random num : 8
+ [INFO] [2017-01-18 15:15:02][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:15:02][com.tiobe.redis.RedisUtilTest][9, 10, 0, 0, 0, 0, 4, 0, 0, 0, 7, 8, 3, 6, 2, 7, 5, 1, 5, 8, 3, 5, 0, 6, 3, 6, 0, 8, 2, 6, 6, 4, 1, 8, 8, 8, 3, 2, 4, 0, 7, 0, 4, 6, 1, 7, 4, 0, 5, 0, 7, 4, 1, 4, 1, 1, 6, 1, 6, 2, 6, 7, 0, 1, 4, 5, 4, 3, 6, 5, 6, 7, 8, 5, 5, 8, 8, 6, 8, 4, 2, 5, 4, 5, 1, 0, 0, 0, 0, 7, 1, 4, 7, 3, 4, 0, 7, 2, 6, 8, 7, 7, 4, 7, 0, 7, 5, 2, 0, 2, 2, 4, 6, 6, 8, 1, 0, 2, 0, 4, 4, 1, 7, 7, 4, 4, 2, 8, 8, 0, 2, 6, 0, 1, 6, 4, 4, 6, 6, 3, 0, 6, 4, 0, 5, 1, 4, 6, 5, 0, 0, 7, 3, 2, 7, 5, 6, 5, 7, 6, 4, 2, 1, 7, 6, 7, 4, 8, 7, 5, 2, 2, 1, 2, 0, 5, 0, 1, 4, 0, 7, 4, 5, 2, 3, 2, 2, 2, 4, 3, 3, 4, 7, 7, 2, 3, 2, 2, 4, 2, 7, 1, 1, 6, 6, 5, 7, 5, 1, 5, 6, 2, 5, 3, 5, 2, 0, 4, 8, 5, 4, 3, 0, 6, 3, 8, 1, 6, 3, 6, 1, 4, 8, 7, 5, 8, 0, 5, 5, 5, 7, 2, 6, 6, 2, 2, 2, 2, 6, 2, 8, 5, 7, 8, 0, 1, 8, 0, 5, 7, 7, 3, 5, 2, 0, 8, 0, 2, 2, 0, 7, 0, 8, 4, 0, 6, 7, 0, 4, 3, 4, 2, 3, 8, 7, 3, 5, 3, 1, 8, 3, 4, 7, 3, 4, 6, 4, 6, 5, 3, 0, 3, 0, 0, 1, 6, 0, 5, 2, 1, 0, 6, 8, 5, 3, 0, 0, 7, 3, 2, 1, 0, 0, 0, 5, 3, 8, 3, 8, 6, 5, 4, 0, 3, 6, 8, 5, 2, 1, 1, 4, 2, 2, 4, 0, 1, 8]
+ [INFO] [2017-01-18 15:18:16][com.tiobe.utill.RandomUniqueNum]数字已重复
+ [INFO] [2017-01-18 15:18:16][com.tiobe.redis.RedisUtilTest]this is the random num : 1
+ [INFO] [2017-01-18 15:18:16][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:18:16][com.tiobe.redis.RedisUtilTest][1, 2, 1]
+ [INFO] [2017-01-18 15:31:48][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:31:48][com.tiobe.redis.RedisUtilTest][1, 2]
+ [INFO] [2017-01-18 15:32:07][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:32:07][com.tiobe.redis.RedisUtilTest][1, 2]
+ [INFO] [2017-01-18 15:32:21][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:32:21][com.tiobe.redis.RedisUtilTest][1]
+ [INFO] [2017-01-18 15:32:32][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:32:32][com.tiobe.redis.RedisUtilTest][0]
+ [INFO] [2017-01-18 15:32:54][com.tiobe.utill.RandomUniqueNum]数字已重复，重新获取随机数字！
+ [INFO] [2017-01-18 15:32:54][com.tiobe.redis.RedisUtilTest]this is the random num : 0
+ [INFO] [2017-01-18 15:32:54][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:32:54][com.tiobe.redis.RedisUtilTest][0, 0]
+ [INFO] [2017-01-18 15:39:05][com.tiobe.redis.RedisUtilTest]this is the random num : 5
+ [INFO] [2017-01-18 15:39:05][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:39:05][com.tiobe.redis.RedisUtilTest][0, 0, 5]
+ [INFO] [2017-01-18 15:39:13][com.tiobe.redis.RedisUtilTest]this is the random num : 7
+ [INFO] [2017-01-18 15:39:13][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:39:13][com.tiobe.redis.RedisUtilTest][0, 0, 5, 7]
+ [INFO] [2017-01-18 15:39:17][com.tiobe.redis.RedisUtilTest]this is the random num : 6
+ [INFO] [2017-01-18 15:39:17][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:39:17][com.tiobe.redis.RedisUtilTest][0, 0, 5, 7, 6]
+ [INFO] [2017-01-18 15:39:20][com.tiobe.redis.RedisUtilTest]this is the random num : 7
+ [INFO] [2017-01-18 15:39:20][com.tiobe.redis.RedisUtilTest]************
+ [INFO] [2017-01-18 15:39:20][com.tiobe.redis.RedisUtilTest][0, 0, 5, 7, 6, 7]
+ 
