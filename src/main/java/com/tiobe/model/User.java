@@ -62,4 +62,9 @@ public class User {
     public void setLastLoginTime(Date lastLoginTime) {
         this.lastLoginTime = lastLoginTime;
     }
+
+	public boolean isEnable() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }

@@ -104,20 +104,15 @@
       last_login_time = #{lastLoginTime,jdbcType=TIMESTAMP}
     where ID = #{id,jdbcType=INTEGER}
   </update>
-  
-  <select id="getUserByName" resultMap="BaseResultMap" parameterType="java.lang.String" >
-    select
-   		distinct
+  <select id="queryAllUser" resultMap="BaseResultMap">
+    select 
     <include refid="Base_Column_List" />
     from w_userinfo user
-    	where user.name= #{name,jdbcType=VARCHAR}
   </select>
-  
-  <!-- get Users  -->
-  <select id="queryAllUser" resultMap="BaseResultMap" >
-    select
+    <select id="getUserByName" resultMap="BaseResultMap" parameterType="java.lang.String">
+    select 
     <include refid="Base_Column_List" />
     from w_userinfo user
-    </select>
- 
+    where user.name = #{name,jdbcType=VARCHAR} and user.status=1
+  </select>
 </mapper>
