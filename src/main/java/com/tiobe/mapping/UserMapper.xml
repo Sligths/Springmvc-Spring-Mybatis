@@ -91,4 +91,9 @@
       access = #{access,jdbcType=INTEGER}
     where id = #{id,jdbcType=INTEGER}
   </update>
+  <select id="getUser" resultMap="BaseResultMap">
+  select 
+    <include refid="Base_Column_List" />
+    from sec_user user
+  </select>
 </mapper>

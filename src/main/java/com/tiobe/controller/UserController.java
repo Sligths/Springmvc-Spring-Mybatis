@@ -58,7 +58,7 @@ public class UserController {
 		logger.info("start the method: add");
 		Map<String, String> map = new HashMap<String, String>();
 		System.out.println("controller");
-//		int i = userService.addUser(user);
+		int i = userService.addUser(user);
 		map.put("map", "end" + 1);
 		return map;
 	}
@@ -67,16 +67,16 @@ public class UserController {
 	public Map<String, Object> getUsers(@PathVariable String name) {
 		logger.info("start");
 		Map<String, Object> map = new LinkedHashMap<String, Object>();
-//		UserBean userBean = userService.getUserByName(name);
-//		userService.getUser();
-//		map.put(name, userBean);
+		UserBean userBean = userService.getUserByName(name);
+		userService.getUser();
+		map.put(name, userBean);
 		return map;
 	}
 
 	@RequestMapping(value = "/lists", method = RequestMethod.GET)
 	public Map<String, Object> getUsers() {
 		Map<String, Object> map = new LinkedHashMap<String, Object>();
-//		map.put("users", userService.getUser());
+		map.put("users", userService.getUser());
 		return map;
 	}
 

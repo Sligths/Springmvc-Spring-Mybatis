@@ -10,5 +10,5 @@ public interface UserService {
 	public int updateUser(User user);
 	public User getUserByKey(String key);
 	public UserBean getUserByName(String name);
-	public List<UserBean> getUser();
+	public List<User> getUser();
 }

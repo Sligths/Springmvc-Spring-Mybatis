@@ -88,24 +88,18 @@ public class UserSerivceImpl  implements UserService{
 	}
 
 	@Override
-	public List<UserBean> getUser() {
+	public List<User> getUser() {
 		int i=0;
-		List<UserBean> listbean = new ArrayList<>();
-//		UserBean ub =new UserBean();
-//		List<User> list = userMapper.queryAllUser();
-//		if(list.size()<0&&list.isEmpty()){
-//			logger.error("user is empty");
-//		}
-//		for(User user:list){
-//			ub.setName(user.getName());
-//			ub.setPassword(user.getPassword());
-//			ub.setStatus(user.getStatus().toString());
-//			ub.setLastlogintime(new SimpleDateFormat().DateToString(user.getLastLoginTime()));
-//			listbean.add(i, ub);;
-//			logger.info(i+":"+user.getName());
-//			i++;
-//		}
-//		System.out.println(listbean.toString());
+		List<User> listbean = new ArrayList<>();
+		List<User> list = userMapper.getUser();
+		if(list.size()<0&&list.isEmpty()){
+			logger.error("user is empty");
+		}
+		for(User user:list){
+			listbean.add(i,user);
+			logger.info("put the user into list :"+user.getUsername());
+			i++;
+		}
 		return listbean;
 	}
 	
