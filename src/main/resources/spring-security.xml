@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/security
+http://www.springframework.org/schema/security/spring-security.xsd">
+
+	<debug />
+	<http security="none" pattern="/login.jsp" />
+	<http security="none" pattern="/static/**" />
+	<http security="none" pattern="/index.jsp" />
+	<http security="none" pattern="/bootstrap/**" />
+	<http use-expressions="true" auto-config="true">
+		<intercept-url pattern="/**" access="hasRole('ROLE_USER')" />
+
+		<!-- 同一时间内允许同一账号保持4个在线,error-if-maximum-exceeded="true"表示第第四个以后的登不进去 -->
+		<session-management>
+			<concurrency-control max-sessions="4"
+				error-if-maximum-exceeded="true" />
+		</session-management>
+		<csrf disabled="true" />
+		<form-login login-page="/login.jsp"
+			authentication-failure-handler-ref="authenticationFailureHandlerImpl"
+			authentication-success-handler-ref="authenticationSuccessHandlerImpl" />
+		<logout logout-success-url="/logout.jsp" logout-url="logout"
+			invalidate-session="true" delete-cookies="JSESSIONID" />
+	</http>
+
+	<authentication-manager>
+		<!-- <authentication-provider> -->
+		<!-- <user-service> -->
+		<!-- <user name="admin" password="123" authorities="ROLE_USER"/> -->
+		<!-- </user-service> -->
+		<!-- </authentication-provider> -->
+		<authentication-provider user-service-ref="userService">
+			<password-encoder hash="bcrypt" />
+		</authentication-provider>
+	</authentication-manager>
+
+	<beans:bean id="userService" class="com.tiobe.serviceImpl.UserSerivceImpl" />
+
+	<!-- 认证成功调用 主要实现AuthenticationSuccessHandler这个类的onAuthenticationSuccess方法 -->
+	<beans:bean id="authenticationSuccessHandlerImpl"
+		class="com.**.utils.springsecurity.AuthenticationSuccessHandlerImpl">
+		<beans:property name="url" value="/index.jsp" />
+	</beans:bean>
+
+	<!-- 认证失败调用 主要实现AuthenticationFailureHandler类的onAuthenticationFailure --> 
+	<beans:bean id="authenticationFailureHandlerImpl" class="com.**.utils.springsecurity.AuthenticationFailureHandlerImpl"> 
+		<beans:property name="errorUrl" value="/error.jsp" /> 
+	</beans:bean> 
+</beans:beans> 
