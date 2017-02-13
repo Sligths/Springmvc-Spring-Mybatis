@@ -10,7 +10,11 @@
         http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
 
 	<!-- 扫描controller（controller层注入） -->
-	<context:component-scan base-package="com.tiobe" />
+	<!-- springmvc的配置文件中不扫描带有@Service注解的类 -->
+	<context:component-scan base-package="com.tiobe" >
+		<context:exclude-filter type="annotation" expression="org.springframework.stereotype.Service"/>
+	</context:component-scan>
+	
 	<mvc:annotation-driven />
 	<!-- 配置可访问静态资源 -->
 	<mvc:resources location="/" mapping="/**/*.html" />
@@ -19,7 +23,9 @@
 	<mvc:resources location="/" mapping="/**/*.png" />
 	<mvc:resources location="/" mapping="/**/*.gif" />
 	<mvc:resources location="/" mapping="/**/*.jpg" />
-	<mvc:resources location="/" mapping="/**/*.icon" />
+	<mvc:resources location="/" mapping="/fonts/*" />
+	<mvc:resources location="/" mapping="/**/**/fonts/*" />
+	
 	<bean id="localeResolver"
 		class="org.springframework.web.servlet.i18n.CookieLocaleResolver">
 		<property name="defaultLocale" value="zh_CN" />

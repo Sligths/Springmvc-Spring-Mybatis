@@ -1,7 +1,5 @@
 package com.tiobe.dao;
 
-import java.util.List;
-
 import com.tiobe.model.User;
 
 public interface UserMapper {
@@ -16,8 +14,4 @@ public interface UserMapper {
     int updateByPrimaryKeySelective(User record);
 
     int updateByPrimaryKey(User record);
-
-	User getUserByName(String name);
-
-	List<User> queryAllUser();
 }

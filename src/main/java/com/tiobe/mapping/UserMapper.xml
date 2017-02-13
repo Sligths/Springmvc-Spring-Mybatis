@@ -2,117 +2,93 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="com.tiobe.dao.UserMapper" >
   <resultMap id="BaseResultMap" type="com.tiobe.model.User" >
-    <id column="user_ID" property="id" jdbcType="INTEGER" />
-    <result column="user_name" property="name" jdbcType="VARCHAR" />
+    <id column="user_id" property="id" jdbcType="INTEGER" />
+    <result column="user_username" property="username" jdbcType="VARCHAR" />
     <result column="user_password" property="password" jdbcType="VARCHAR" />
-    <result column="user_create_time" property="createTime" jdbcType="TIMESTAMP" />
-    <result column="user_status" property="status" jdbcType="INTEGER" />
-    <result column="user_last_login_time" property="lastLoginTime" jdbcType="TIMESTAMP" />
+    <result column="user_role" property="role" jdbcType="VARCHAR" />
+    <result column="user_access" property="access" jdbcType="INTEGER" />
   </resultMap>
   <sql id="Base_Column_List" >
-    user.ID as user_ID, user.name as user_name, user.password as user_password, user.create_time as user_create_time, 
-    user.status as user_status, user.last_login_time as user_last_login_time
+    user.id as user_id, user.username as user_username, user.password as user_password, 
+    user.role as user_role, user.access as user_access
   </sql>
   <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
     select 
     <include refid="Base_Column_List" />
-    from w_userinfo user
-    where user.ID = #{id,jdbcType=INTEGER}
+    from sec_user user
+    where user.id = #{id,jdbcType=INTEGER}
   </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
-    delete from w_userinfo
-    where ID = #{id,jdbcType=INTEGER}
+    delete from sec_user
+    where id = #{id,jdbcType=INTEGER}
   </delete>
   <insert id="insert" parameterType="com.tiobe.model.User" >
-    insert into w_userinfo (ID, name, password, 
-      create_time, status, last_login_time
-      )
-    values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
-      #{createTime,jdbcType=TIMESTAMP}, #{status,jdbcType=INTEGER}, #{lastLoginTime,jdbcType=TIMESTAMP}
-      )
+    insert into sec_user (id, username, password, 
+      role, access)
+    values (#{id,jdbcType=INTEGER}, #{username,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
+      #{role,jdbcType=VARCHAR}, #{access,jdbcType=INTEGER})
   </insert>
   <insert id="insertSelective" parameterType="com.tiobe.model.User" >
-    insert into w_userinfo
+    insert into sec_user
     <trim prefix="(" suffix=")" suffixOverrides="," >
       <if test="id != null" >
-        ID,
+        id,
       </if>
-      <if test="name != null" >
-        name,
+      <if test="username != null" >
+        username,
       </if>
       <if test="password != null" >
         password,
       </if>
-      <if test="createTime != null" >
-        create_time,
+      <if test="role != null" >
+        role,
       </if>
-      <if test="status != null" >
-        status,
-      </if>
-      <if test="lastLoginTime != null" >
-        last_login_time,
+      <if test="access != null" >
+        access,
       </if>
     </trim>
     <trim prefix="values (" suffix=")" suffixOverrides="," >
       <if test="id != null" >
         #{id,jdbcType=INTEGER},
       </if>
-      <if test="name != null" >
-        #{name,jdbcType=VARCHAR},
+      <if test="username != null" >
+        #{username,jdbcType=VARCHAR},
       </if>
       <if test="password != null" >
         #{password,jdbcType=VARCHAR},
       </if>
-      <if test="createTime != null" >
-        #{createTime,jdbcType=TIMESTAMP},
+      <if test="role != null" >
+        #{role,jdbcType=VARCHAR},
       </if>
-      <if test="status != null" >
-        #{status,jdbcType=INTEGER},
-      </if>
-      <if test="lastLoginTime != null" >
-        #{lastLoginTime,jdbcType=TIMESTAMP},
+      <if test="access != null" >
+        #{access,jdbcType=INTEGER},
       </if>
     </trim>
   </insert>
   <update id="updateByPrimaryKeySelective" parameterType="com.tiobe.model.User" >
-    update w_userinfo
+    update sec_user
     <set >
-      <if test="name != null" >
-        name = #{name,jdbcType=VARCHAR},
+      <if test="username != null" >
+        username = #{username,jdbcType=VARCHAR},
       </if>
       <if test="password != null" >
         password = #{password,jdbcType=VARCHAR},
       </if>
-      <if test="createTime != null" >
-        create_time = #{createTime,jdbcType=TIMESTAMP},
+      <if test="role != null" >
+        role = #{role,jdbcType=VARCHAR},
       </if>
-      <if test="status != null" >
-        status = #{status,jdbcType=INTEGER},
-      </if>
-      <if test="lastLoginTime != null" >
-        last_login_time = #{lastLoginTime,jdbcType=TIMESTAMP},
+      <if test="access != null" >
+        access = #{access,jdbcType=INTEGER},
       </if>
     </set>
-    where ID = #{id,jdbcType=INTEGER}
+    where id = #{id,jdbcType=INTEGER}
   </update>
   <update id="updateByPrimaryKey" parameterType="com.tiobe.model.User" >
-    update w_userinfo
-    set name = #{name,jdbcType=VARCHAR},
+    update sec_user
+    set username = #{username,jdbcType=VARCHAR},
       password = #{password,jdbcType=VARCHAR},
-      create_time = #{createTime,jdbcType=TIMESTAMP},
-      status = #{status,jdbcType=INTEGER},
-      last_login_time = #{lastLoginTime,jdbcType=TIMESTAMP}
-    where ID = #{id,jdbcType=INTEGER}
+      role = #{role,jdbcType=VARCHAR},
+      access = #{access,jdbcType=INTEGER}
+    where id = #{id,jdbcType=INTEGER}
   </update>
-  <select id="queryAllUser" resultMap="BaseResultMap">
-    select 
-    <include refid="Base_Column_List" />
-    from w_userinfo user
-  </select>
-    <select id="getUserByName" resultMap="BaseResultMap" parameterType="java.lang.String">
-    select 
-    <include refid="Base_Column_List" />
-    from w_userinfo user
-    where user.name = #{name,jdbcType=VARCHAR} and user.status=1
-  </select>
 </mapper>

@@ -29,26 +29,25 @@ public class UserController {
 
 	private static Logger logger = Logger.getLogger(UserController.class);
 
-	@Resource(name = "UserService")
+	@Resource(name = "userService")
 	UserService userService;
-
-	@Resource
-	UserMapper userMapper;
 
 	@RequestMapping(value = "/{id}", method = RequestMethod.GET)
 	public Map<String, String> getUser(@PathVariable String id) {
+		logger.info("getting the user:"+ id );
 		Map<String, String> map = new HashMap<String, String>();
 		User user = userService.getUserByKey(id);
 		String msg = "";
 		if (!(user == null)) {
 			map.put("userId", user.getId().toString());
-			map.put("name", user.getName());
+			map.put("name", user.getUsername());
 			map.put("password", user.getPassword());
+			map.put("role", user.getRole());
+			map.put("access", user.getAccess().toString());
 			msg = "success";
 		} else {
 			msg = "can't find the user";
 		}
-
 		logger.info(map);
 		map.put("msg", msg);
 		return map;
@@ -59,8 +58,8 @@ public class UserController {
 		logger.info("start the method: add");
 		Map<String, String> map = new HashMap<String, String>();
 		System.out.println("controller");
-		int i = userService.addUser(user);
-		map.put("map", "end" + i);
+//		int i = userService.addUser(user);
+		map.put("map", "end" + 1);
 		return map;
 	}
 
@@ -68,16 +67,16 @@ public class UserController {
 	public Map<String, Object> getUsers(@PathVariable String name) {
 		logger.info("start");
 		Map<String, Object> map = new LinkedHashMap<String, Object>();
-		UserBean userBean = userService.getUserByName(name);
-		userService.getUser();
-		map.put(name, userBean);
+//		UserBean userBean = userService.getUserByName(name);
+//		userService.getUser();
+//		map.put(name, userBean);
 		return map;
 	}
 
 	@RequestMapping(value = "/lists", method = RequestMethod.GET)
 	public Map<String, Object> getUsers() {
 		Map<String, Object> map = new LinkedHashMap<String, Object>();
-		map.put("users", userService.getUser());
+//		map.put("users", userService.getUser());
 		return map;
 	}
 
@@ -89,9 +88,9 @@ public class UserController {
 			// 用户名,密码,是否激活,accountnonexpired如果帐户没有过期设置为true
 			// credentialsnonexpired如果证书没有过期设置为true
 			// accountnonlocked如果帐户不锁定设置为true
-			User u = userMapper.getUserByName(userBean.getName());
+//			User u = userMapper.getUserByName(userBean.getName());
 			// 目前是把角色给写死了
-			details = new org.springframework.security.core.userdetails.User(u.getName(), u.getPassword(), false, false, false,u.isEnable(), AuthorityUtils.createAuthorityList("ROLE_USER"));
+//			details = new org.springframework.security.core.userdetails.User(u.getName(), u.getPassword(), false, false, false,u.isEnable(), AuthorityUtils.createAuthorityList("ROLE_USER"));
 		} catch (UsernameNotFoundException usernameNotFoundException) {
 			usernameNotFoundException.printStackTrace();
 		} catch (Exception e) {

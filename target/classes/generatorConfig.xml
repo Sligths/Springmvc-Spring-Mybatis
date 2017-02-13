@@ -34,8 +34,9 @@
                
         </javaClientGenerator>    
         <!-- 要生成的表 tableName是数据库中的表名或视图名 domainObjectName是实体类名-->    
-        <table tableName="w_userinfo" alias="user" domainObjectName="User" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>  
-    	<!--  <table tableName="sec_user" alias="suser"  domainObjectName="suser" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>  
-    	-->
+        <!--<table tableName="w_userinfo" alias="user" domainObjectName="User" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>  
+    	 --> 
+    	 <table tableName="sec_user" alias="user"  domainObjectName="User" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>  
+    	
     </context>    
 </generatorConfiguration>

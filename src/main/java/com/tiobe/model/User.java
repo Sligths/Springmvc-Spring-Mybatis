@@ -1,19 +1,15 @@
 package com.tiobe.model;
 
-import java.util.Date;
-
 public class User {
     private Integer id;
 
-    private String name;
+    private String username;
 
     private String password;
 
-    private Date createTime;
+    private String role;
 
-    private Integer status;
-
-    private Date lastLoginTime;
+    private Integer access;
 
     public Integer getId() {
         return id;
@@ -23,12 +19,12 @@ public class User {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public String getUsername() {
+        return username;
     }
 
-    public void setName(String name) {
-        this.name = name == null ? null : name.trim();
+    public void setUsername(String username) {
+        this.username = username == null ? null : username.trim();
     }
 
     public String getPassword() {
@@ -39,32 +35,19 @@ public class User {
         this.password = password == null ? null : password.trim();
     }
 
-    public Date getCreateTime() {
-        return createTime;
+    public String getRole() {
+        return role;
     }
 
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
+    public void setRole(String role) {
+        this.role = role == null ? null : role.trim();
     }
 
-    public Integer getStatus() {
-        return status;
+    public Integer getAccess() {
+        return access;
     }
 
-    public void setStatus(Integer status) {
-        this.status = status;
+    public void setAccess(Integer access) {
+        this.access = access;
     }
-
-    public Date getLastLoginTime() {
-        return lastLoginTime;
-    }
-
-    public void setLastLoginTime(Date lastLoginTime) {
-        this.lastLoginTime = lastLoginTime;
-    }
-
-	public boolean isEnable() {
-		// TODO Auto-generated method stub
-		return false;
-	}
 }
