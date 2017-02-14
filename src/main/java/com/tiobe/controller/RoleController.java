@@ -32,9 +32,8 @@ public class RoleController {
 		logger.info("get into admin page ");
 		User user =new User();
 //		User user = userMapper.selectByPrimaryKey(3);
-		logger.info("name:"+user.getUsername());
-		logger.info("role:"+user.getRole());
-		logger.info("access:"+user.getAccess());
+		logger.info("name:"+user.getUserName());
+		logger.info("role:"+user.getRoleId());
 		logger.info("pwd:"+user.getPassword());
 		return new ModelAndView("admin");
 		
@@ -45,9 +44,8 @@ public class RoleController {
 		logger.info("get into admin page ");
 		User user = new User();
 //		User user = userMapper.selectByPrimaryKey(3);
-		logger.info("name:"+user.getUsername());
-		logger.info("role:"+user.getRole());
-		logger.info("access:"+user.getAccess());
+		logger.info("name:"+user.getUserName());
+		logger.info("role:"+user.getRoleId());
 		logger.info("pwd:"+user.getPassword());
 		return new ModelAndView("login");
 		

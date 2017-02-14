@@ -1,30 +1,30 @@
 package com.tiobe.model;
 
 public class User {
-    private Integer id;
+    private Long userId;
 
-    private String username;
+    private String userName;
 
     private String password;
 
-    private String role;
+    private Integer roleId;
 
-    private Integer access;
+    private Integer isactive;
 
-    public Integer getId() {
-        return id;
+    public Long getUserId() {
+        return userId;
     }
 
-    public void setId(Integer id) {
-        this.id = id;
+    public void setUserId(Long userId) {
+        this.userId = userId;
     }
 
-    public String getUsername() {
-        return username;
+    public String getUserName() {
+        return userName;
     }
 
-    public void setUsername(String username) {
-        this.username = username == null ? null : username.trim();
+    public void setUserName(String userName) {
+        this.userName = userName == null ? null : userName.trim();
     }
 
     public String getPassword() {
@@ -35,19 +35,19 @@ public class User {
         this.password = password == null ? null : password.trim();
     }
 
-    public String getRole() {
-        return role;
+    public Integer getRoleId() {
+        return roleId;
     }
 
-    public void setRole(String role) {
-        this.role = role == null ? null : role.trim();
+    public void setRoleId(Integer roleId) {
+        this.roleId = roleId;
     }
 
-    public Integer getAccess() {
-        return access;
+    public Integer getIsactive() {
+        return isactive;
     }
 
-    public void setAccess(Integer access) {
-        this.access = access;
+    public void setIsactive(Integer isactive) {
+        this.isactive = isactive;
     }
 }

@@ -65,9 +65,9 @@
     </bean>
 
 
-    <!-- 使用annotation定义事务  -->
+    <!-- 使用注解[ annotation]定义事务 
     <tx:annotation-driven transaction-manager="transactionManager" /> 
-    
+     -->
      
 	<!-- redis配置 
 	<bean id="jedisConnFactory"

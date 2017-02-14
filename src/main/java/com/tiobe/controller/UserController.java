@@ -39,11 +39,10 @@ public class UserController {
 		User user = userService.getUserByKey(id);
 		String msg = "";
 		if (!(user == null)) {
-			map.put("userId", user.getId().toString());
-			map.put("name", user.getUsername());
+			map.put("userId", user.getUserId().toString());
+			map.put("name", user.getUserName());
 			map.put("password", user.getPassword());
-			map.put("role", user.getRole());
-			map.put("access", user.getAccess().toString());
+			map.put("role", user.getRoleId().toString());
 			msg = "success";
 		} else {
 			msg = "can't find the user";
@@ -81,10 +80,11 @@ public class UserController {
 	}
 
 	@RequestMapping(value = "/login", method = RequestMethod.POST)
-	public UserDetails login(UserBean userBean) {
+	public String login(UserBean userBean) {
 		Map<String, Object> map = new LinkedHashMap<String, Object>();
 		UserDetails details = null;
 		try {
+			logger.info("login method");
 			// 用户名,密码,是否激活,accountnonexpired如果帐户没有过期设置为true
 			// credentialsnonexpired如果证书没有过期设置为true
 			// accountnonlocked如果帐户不锁定设置为true
@@ -96,7 +96,7 @@ public class UserController {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		return details;
+		return "index";
 	}
 
 }

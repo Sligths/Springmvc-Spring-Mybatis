@@ -66,7 +66,8 @@ public class UserSerivceImpl  implements UserService{
 	public User getUserByKey(String key) {
 		User user = null ;
 		try{
-			user = userMapper.selectByPrimaryKey(Integer.valueOf(key));
+			logger.info("get user by long key ");
+			user = userMapper.selectByPrimaryKey(Long.valueOf(key));
 		}catch (Exception e){
 			logger.error("can't get the user with the " +key);
 		}
@@ -97,7 +98,7 @@ public class UserSerivceImpl  implements UserService{
 		}
 		for(User user:list){
 			listbean.add(i,user);
-			logger.info("put the user into list :"+user.getUsername());
+			logger.info("put the user into list :"+user.getUserName());
 			i++;
 		}
 		return listbean;
