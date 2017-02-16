@@ -4,22 +4,60 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd
     http://www.springframework.org/schema/security
-    http://www.springframework.org/schema/security/spring-security.xsd">
+    http://www.springframework.org/schema/security/spring-security-4.0.xsd">
 
 	<http security="none" pattern="/index.html" />
-	 <http security="none" pattern="/views/login.html" /> 
-	<!--	静态资源过滤		-->
-	<http auto-config='true'>
-		<intercept-url pattern="/views/admin.html" access="ROLE_ADMIN" />
-		<intercept-url pattern="/**" access="ROLE_USER" />
-		<!-- 自定义登陆界面 <form-login login-page="/views/login.html"/> -->
+	<http security="none" pattern="/*/static/**" />
+	<http security="none" pattern="/*/login.html" />
+	<!--静态资源过滤	<http security="none" pattern="/views/login.html" /> -->
+	
+	<http use-expressions="true" >
+		<!--  <intercept-url pattern="/*" access="permitAll" />-->
+		<intercept-url pattern="/views/*" access="hasRole('ROLE_USER')" />
+		<intercept-url pattern="/views/manager/*" access="hasRole('ROLE_ADMIN')"/>
+		<!--	customzise login page login-page='/login.html'	
+				username-parameter="usernaame"
+				password-parameter="password"
+			
+		<form-login  login-page='/login.jsp'
+			default-target-url="/views/manage.html"
+			always-use-default-target="true"
+			login-processing-url="/warm/login"
+			username-parameter="usernaame"
+			password-parameter="password"
+			authentication-failure-url="/login?error=1"
+			/>
+			-->
+		<form-login 
+			login-page='/views/login.html'
+			default-target-url="/views/login.html"
+			authentication-failure-url="/views/denied.html"
+			/>
+		<http-basic/>
+		<logout 
+			logout-url="/logout"
+			logout-success-url="/views/login.html"/>
+		<csrf disabled="true"/> 
+		<access-denied-handler error-page="/views/error.html"/>
 	</http>
 	<authentication-manager>
-		<authentication-provider>
-			<user-service>
-				<user name="admin" password="admin" authorities="ROLE_USER, ROLE_ADMIN" />
+		<authentication-provider >
+			
+			<!-- 数据库获取用户密码  group-authorities-by-username-query="" -->
+			<jdbc-user-service data-source-ref="dataSource" role-prefix="ROLE_"
+				users-by-username-query="select user_name as username, password, enable from flow_user where user_name = ?"
+				authorities-by-username-query="select user_name as username , authority from flow_authorities where user_name = ?"
+			/>
+			
+			<!--	配置文件设置用户权限
+			<user-service properties="classpath:auth.properties"/>
+			-->
+			<!--	直接写死用户权限
+			<user-service>  
 				<user name="user" password="user" authorities="ROLE_USER" />
+				<user name="test" password="test" authorities="ROLE_USER,ROLE_ADMIN" />
 			</user-service>
+			-->
 		</authentication-provider>
 	</authentication-manager>
 </beans:beans>
