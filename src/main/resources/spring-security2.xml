@@ -13,7 +13,7 @@
 	
 	<http use-expressions="true" >
 		<!--  <intercept-url pattern="/*" access="permitAll" />-->
-		<intercept-url pattern="/views/*" access="hasRole('ROLE_USER')" />
+		<intercept-url pattern="/views/*" access="hasAnyRole('ROLE_USER','ROLE_ADMIN')" />
 		<intercept-url pattern="/views/manager/*" access="hasRole('ROLE_ADMIN')"/>
 		<!--	customzise login page login-page='/login.html'	
 				username-parameter="usernaame"
@@ -30,15 +30,15 @@
 			-->
 		<form-login 
 			login-page='/views/login.html'
-			default-target-url="/views/login.html"
-			authentication-failure-url="/views/denied.html"
+			default-target-url="/views/index.html"
+			authentication-failure-url="/views/error.html"
 			/>
 		<http-basic/>
 		<logout 
 			logout-url="/logout"
 			logout-success-url="/views/login.html"/>
 		<csrf disabled="true"/> 
-		<access-denied-handler error-page="/views/error.html"/>
+		<access-denied-handler error-page="/views/denied.html"/>
 	</http>
 	<authentication-manager>
 		<authentication-provider >

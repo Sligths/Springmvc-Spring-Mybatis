@@ -19,20 +19,17 @@
 <!--jquery.validate-->
 <script type="text/javascript" src="../static/js/jquery.validate.min.js"></script>
 <style type="text/css">
-body .bg {
-	background: url(../static/img/se_bg.jpg) no-repeat;
+body {
+	background: url(../static/img/city.jpg) no-repeat;
 	overflow: hidden;
-	background-size: 80% 100%;
-	background-position: center;
-	opacity: 0.7;
+	background-size: 100% 100%;
+	opacity: 0.8;
 }
 
-body {
-	body {background: url(../static/img/se_bg.jpg) no-repeat;
+body#login{
+	background: url(../static/img/city.jpg) no-repeat;
 	background-size: <span style="font-family: 微软雅黑; background-color: rgb(239, 239, 239);">cover</span>;
 	font-size: 16px;
-}
-
 }
 .form {
 	background: url(../static/img/login_bg.gif); rgba (255,255,255,0.3);
@@ -63,9 +60,12 @@ input[type="text"], input[type="password"] {
 .checkbox {
 	padding-left: 21px;
 }
+.form-bt{
+	text-align:right;
+}
 </style>
 </head>
-<body>
+<body class="bg">
 	<!--  
             基础知识：  
             网格系统:通过行和列布局  
@@ -97,14 +97,20 @@ input[type="text"], input[type="password"] {
 							name="remember" value="1" /> Remember me
 						</label>
 						<hr />
-						<a href="javascript:;" id="register_btn" class="">Create an
-							account</a>
+						
 					</div>
-					<div class="form-group">
+					<div class="form-group form-bt">
+					
+						<input type="button" id="register_btn"
+							class="btn btn-success pull-left" value="Register " />
+							
 						<input type="submit" name="submit"
 							class="btn btn-success pull-right" value="Login " />
+
 					</div>
+					<p class="copyright text-muted small">Copyright &copy; SSFLOW 2017.</p>
 				</div>
+				
 			</form>
 		</div>
 
@@ -136,12 +142,16 @@ input[type="text"], input[type="password"] {
 					<div class="form-group">
 						<input type="submit" class="btn btn-success pull-right"
 							value="Sign Up " /> <input type="submit"
-							class="btn btn-info pull-left" id="back_btn" value="Back" />
+							class="btn btn-success pull-left" id="back_btn" value="Back" />
 					</div>
 				</div>
 			</form>
 		</div>
-	</div>
+		</div>
+		<p>here</p>
+		 	<div class="row">
+                    <p class="copyright text-muted small">Copyright &copy; Your Company 2014. All Rights Reserved</p>
+			</div>
 	<script type="text/javascript">
     $(function() {
        	 $("#register_btn").click(function() {  
