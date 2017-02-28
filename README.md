@@ -9,3 +9,5 @@ a web project with Springmvc-Spring-Mybatis
 3.you need to download  jars these project rely on.
 
 4.it would make more strong,i hope so.
+
+5.new update is pushed ,and you should use the version 1.2 for learning.
